@@ -1,4 +1,4 @@
-hi im a student from taiwain and i wanna to share my tiny DIY project, i was majored in theatre lighting design,and im not a pro in coding and engineerig,thus i might made some inefficient solution haha.
+hi im a student from taiwan and i wanna to share my tiny DIY project, i was majored in theatre lighting design,and im not a pro in coding and engineering,thus i might made some inefficient solution haha.
 
 # 🚦 專案日誌：基於 ESP32 與 WLED 實現 MA2 控制的 512 點陣智慧紅綠燈系統
 # Dev Log: Implementing a 512-Pixel Smart Traffic Light System via ESP32, WLED, and grandMA2
